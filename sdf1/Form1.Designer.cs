@@ -118,7 +118,7 @@
             // goster
             // 
             this.goster.Name = "goster";
-            this.goster.Size = new System.Drawing.Size(135, 26);
+            this.goster.Size = new System.Drawing.Size(224, 26);
             this.goster.Text = "Göstər";
             // 
             // cixis
@@ -317,7 +317,7 @@
             this.txtStatsResult.Name = "txtStatsResult";
             this.txtStatsResult.ReadOnly = true;
             this.txtStatsResult.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
-            this.txtStatsResult.Size = new System.Drawing.Size(173, 42);
+            this.txtStatsResult.Size = new System.Drawing.Size(500, 180);
             this.txtStatsResult.TabIndex = 2;
             // 
             // txtSearchCode
@@ -348,7 +348,7 @@
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "x`";
+            this.Text = "Telebe qiymet sdf";
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
             this.pnlStudent.ResumeLayout(false);
